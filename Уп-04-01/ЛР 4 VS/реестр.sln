@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "реестр", "реестр\реестр.csproj", "{1A990EE1-D382-49C4-92DD-5A102CE737DA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "СЭТАПЧИК", "СЭТАПЧИК\СЭТАПЧИК.vdproj", "{D539642C-04E6-4055-A7C4-2B6811A274B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A990EE1-D382-49C4-92DD-5A102CE737DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A990EE1-D382-49C4-92DD-5A102CE737DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A990EE1-D382-49C4-92DD-5A102CE737DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A990EE1-D382-49C4-92DD-5A102CE737DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D539642C-04E6-4055-A7C4-2B6811A274B2}.Debug|Any CPU.ActiveCfg = Debug
+		{D539642C-04E6-4055-A7C4-2B6811A274B2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C19EFBC2-3293-43AE-B446-74DEA976F141}
+	EndGlobalSection
+EndGlobal
